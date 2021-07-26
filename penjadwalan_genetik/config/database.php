@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'penjadwalan_genetik_web';
+$db['default']['hostname'] = 'db4free.net';
+$db['default']['username'] = 'kholid';
+$db['default']['password'] = 'kholid1234';
+$db['default']['database'] = 'penjadwalangcd';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
